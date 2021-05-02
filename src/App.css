@@ -286,7 +286,6 @@ Grocery List
   color: var(--clr-red-light);
   margin: 0 auto;
   font-size: 0.85rem;
-  letter-spacing: var(--spacing);
   cursor: pointer;
   transition: var(--transition);
   margin-top: 1.25rem;
